@@ -1,0 +1,16 @@
+01_datos/hyp3/
+02_mintpy/*
+.ipynb_checkpoints/
+*nisar*
+*NISAR*
+*alos*
+*PATU*
+*worldcover*
+*cobertura*
+*respaldo*
+*.zip
+__pycache__/
+03_resultados/fichas_paginas/
+03_resultados/*_24nov.zip
+03_resultados/fichas_zonas_deformacion_activa.pdf
+01_datos/amenaza_mm_100k/

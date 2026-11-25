@@ -1,0 +1,30 @@
+celda,area_km2,n_zda,n_mm_probable,n_mm_posible,n_subsidencia,n_por_verificar,medido_pct,coh_mediana,pend_media,cobertura,unidad,puntaje,ZDA,clase,area_ha,v_mapa,v_serie,n_px,frame,consistente,rango,representativa
+1,49.1,22,16,2,0,4,91.9,0.86,12.6,Herbazal y pastos,b2b6-Sm,501.0,ZDA-022,Movimiento en masa probable,44.8,-35.0,-48.4,70.0,F572,True,8,False
+2,245.1,15,12,3,0,0,56.5,0.72,14.0,Bosque,b2b6-Sm,405.0,ZDA-006,Movimiento en masa probable,90.2,-40.4,-52.8,141.0,F572,True,10,False
+3,61.9,2,2,0,0,0,57.9,0.73,16.8,Bosque,b2b6-Sm,48.0,ZDA-165,Movimiento en masa probable,7.0,24.0,20.5,11.0,F572,True,21,False
+4,12.2,1,0,1,0,0,99.8,0.86,8.5,Herbazal y pastos,E1-Sc,23.0,ZDA-437,Movimiento en masa posible,3.2,-22.9,-24.5,5.0,F572,True,24,False
+5,305.6,46,13,13,0,20,97.9,0.87,11.8,Herbazal y pastos,b2b6-Sm,935.0,ZDA-051,Movimiento en masa probable,21.8,-29.9,-35.4,34.0,F572,True,2,True
+6,281.1,30,4,13,0,13,99.1,0.93,10.4,Herbazal y pastos,b2b6-Sm,503.0,ZDA-002,Movimiento en masa probable,197.8,-36.9,-43.6,309.0,F572,True,7,False
+7,401.6,54,37,12,0,5,68.8,0.75,9.8,Bosque,b2b6-Sm,1445.0,ZDA-237,Movimiento en masa probable,5.1,-53.8,-61.2,8.0,F572,True,1,True
+8,299.2,36,21,11,0,4,48.2,0.7,12.8,Bosque,b2b6-Sm,857.0,ZDA-036,Movimiento en masa probable,28.2,-35.3,-44.3,44.0,F572,True,3,True
+9,45.6,1,1,0,0,0,35.3,0.67,12.2,Bosque,b2b6-Sm,22.0,ZDA-413,Movimiento en masa probable,3.2,-21.9,-24.3,5.0,F572,True,25,False
+10,221.0,38,5,10,12,11,98.5,0.89,12.4,Herbazal y pastos,k1k6-Stm,498.0,ZDA-329,Movimiento en masa probable,3.8,-57.1,-40.1,6.0,F572,True,9,False
+11,390.8,70,13,14,0,43,92.7,0.89,15.0,Herbazal y pastos,b2b6-Sm,846.0,ZDA-225,Movimiento en masa probable,5.8,-23.4,-37.3,9.0,F572,True,4,True
+12,401.6,35,15,6,0,14,50.9,0.7,13.1,Bosque,b1-Sct,586.0,ZDA-357,Movimiento en masa probable,3.8,-29.9,-40.5,6.0,F572,True,6,True
+13,401.6,13,4,0,0,9,19.3,0.61,12.1,Bosque,b2b6-Sm,116.0,ZDA-106,Movimiento en masa probable,9.6,-33.5,-55.4,15.0,F572,True,17,False
+14,350.4,9,3,1,0,5,26.7,0.63,16.5,Bosque,b2b6-Sm,112.0,ZDA-102,Movimiento en masa probable,10.2,-27.7,-49.0,16.0,F572,True,18,False
+15,212.4,0,0,0,0,0,0.5,0.39,25.5,Bosque,J3-Sc,0.0,,,,,,,,,26,False
+16,92.1,0,0,0,0,0,0.2,0.42,26.5,Bosque,J3-Sc,0.0,,,,,,,,,27,False
+17,2.0,0,0,0,0,0,0.0,0.46,24.5,Bosque,J3-Sc,0.0,,,,,,,,,28,False
+18,82.1,17,4,6,0,7,92.8,0.87,14.6,Herbazal y pastos,b1-Sct,320.0,ZDA-476,Movimiento en masa probable,3.2,-22.0,-24.8,5.0,F572,True,12,False
+19,369.9,13,9,1,0,3,43.9,0.67,20.1,Bosque,b1-Sct,264.0,ZDA-266,Movimiento en masa probable,4.5,-31.7,-28.3,7.0,F572,True,13,False
+20,390.2,14,6,1,1,6,37.6,0.64,13.0,Bosque,b2b6-Sm,184.0,ZDA-057,Movimiento en masa probable,18.6,-28.6,-40.6,29.0,F572,True,15,False
+21,343.9,23,6,1,0,16,26.1,0.67,10.6,Bosque,b2b6-Sm,169.0,ZDA-510,Movimiento en masa probable,3.2,-25.9,-51.8,5.0,F572,True,16,False
+22,360.7,2,2,0,0,0,4.1,0.56,12.3,Bosque,b2b6-Sm,84.0,ZDA-161,Movimiento en masa probable,7.0,59.1,4.5,11.0,F572,False,19,False
+23,370.1,30,1,13,1,15,37.1,0.66,16.8,Bosque,b2b6-Sm,684.0,ZDA-129,Movimiento en masa probable,8.3,36.9,4.5,13.0,F572,False,5,False
+24,185.4,21,1,8,0,12,43.2,0.68,20.8,Bosque,b2b6-Sm,379.0,ZDA-344,Movimiento en masa probable,3.8,-31.1,4.5,6.0,F572,False,11,False
+25,119.7,3,1,1,0,1,55.8,0.72,20.4,Bosque,J1J2-VCct,48.0,ZDA-501,Movimiento en masa probable,3.2,-25.8,-40.2,5.0,F572,True,22,False
+26,56.2,1,1,0,0,0,12.2,0.41,20.3,Bosque,b1-Sct,29.0,ZDA-108,Movimiento en masa probable,9.6,-29.1,-47.5,15.0,F572,True,23,False
+27,0.0,0,0,0,0,0,,,,,,0.0,,,,,,,,,29,False
+28,59.8,12,3,4,0,5,97.8,0.79,8.1,Herbazal y pastos,b2b6-Sm,221.0,ZDA-483,Movimiento en masa probable,3.2,-22.5,4.5,5.0,F572,False,14,False
+29,9.9,6,0,2,0,4,99.7,0.8,8.4,Herbazal y pastos,b2b6-Sm,58.0,ZDA-090,Movimiento en masa posible,10.9,31.8,4.5,17.0,F572,False,20,False

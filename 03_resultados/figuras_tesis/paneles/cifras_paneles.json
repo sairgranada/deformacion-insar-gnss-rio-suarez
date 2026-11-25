@@ -1,0 +1,391 @@
+{
+ "aspecto_pct": {
+  "N": 13.0,
+  "NE": 11.1,
+  "E": 13.2,
+  "SE": 12.7,
+  "S": 9.7,
+  "SO": 9.7,
+  "O": 13.7,
+  "NO": 16.8
+ },
+ "distorsion_descendente": {
+  "Favorable": 54.0,
+  "Escorzo": 45.2,
+  "Inversión (layover)": 0.8,
+  "Sombra": 0.0
+ },
+ "distorsion_ascendente": {
+  "Favorable": 50.6,
+  "Escorzo": 48.8,
+  "Inversión (layover)": 0.6,
+  "Sombra": 0.0
+ },
+ "sensibilidad_descendente": {
+  "Sin dato": 0.0,
+  "Baja, |C| < 0,3": 38.1,
+  "Media, 0,3 a 0,6": 36.5,
+  "Alta, |C| ≥ 0,6": 25.4
+ },
+ "sensibilidad_ascendente": {
+  "Sin dato": 0.0,
+  "Baja, |C| < 0,3": 41.1,
+  "Media, 0,3 a 0,6": 36.6,
+  "Alta, |C| ≥ 0,6": 22.3
+ },
+ "coh_t_media": 0.71,
+ "coh_t_ge07": 54.9,
+ "coh_s_media": 0.49,
+ "pct_medido_desc": [
+  70.5,
+  60.8,
+  51.2,
+  30.1,
+  16.2,
+  11.1
+ ],
+ "pct_medido_asc": [
+  57.7,
+  49.2,
+  38.7,
+  22.7,
+  13.2,
+  11.0
+ ],
+ "cobertura": {
+  "Bosque": {
+   "area_pct": 62.8,
+   "coh_mediana": 0.65,
+   "medido_pct": 33.3
+  },
+  "Herbazal y pastos": {
+   "area_pct": 35.2,
+   "coh_mediana": 0.82,
+   "medido_pct": 77.4
+  },
+  "Cultivos": {
+   "area_pct": 0.7,
+   "coh_mediana": 0.9,
+   "medido_pct": 99.0
+  }
+ },
+ "coh_t_ge07_asc": 44.6,
+ "pct_v_menor_-20_descendente": {
+  "sin": 9.5,
+  "con": 2.3
+ },
+ "pct_v_menor_-20_ascendente": {
+  "sin": 20.3,
+  "con": 7.0
+ },
+ "simma": {
+  "umbral": 13.8,
+  "total": 316,
+  "por_fuente": {
+   "Catálogo": 240,
+   "Inventario": 76
+  },
+  "por_estado": {
+   "No detectado": 183,
+   "Sin dato InSAR": 92,
+   "Detectado": 41
+  }
+ },
+ "zda_delimitacion": {
+  "sigma_mapa": 10.02,
+  "umbral_zda": 20.0,
+  "umbral_estabilidad": 13.8,
+  "min_px": 5,
+  "area_min_ha": 3.2,
+  "pixeles_validos": 475028,
+  "pct_activos": 4.1,
+  "n_zda": 514,
+  "area_zda_ha": 5595.9,
+  "n_alejamiento": 269,
+  "n_acercamiento": 245,
+  "n_zda_13_8": 1612,
+  "area_zda_13_8_ha": 17901.4,
+  "zda_tambien_con_13_8": 514
+ },
+ "zda_clasificacion": {
+  "calidad": {
+   "1": 125,
+   "2": 244,
+   "3": 117,
+   "4": 28
+  },
+  "tendencia": {
+   "no lineal": 326,
+   "lineal": 188
+  },
+  "clase": {
+   "Por verificar": 197,
+   "Movimiento en masa probable": 180,
+   "Movimiento en masa posible": 123,
+   "Subsidencia o asentamiento probable": 14
+  },
+  "motivo": {
+   "pendiente > 5°, |C| ≥ 0,3 y sentido ladera abajo": 180,
+   "calidad 3 o 4": 145,
+   "pendiente > 5° sin sensibilidad o sentido compatible": 123,
+   "pendiente ≤ 5° fuera de depósitos cuaternarios": 45,
+   "pendiente < 10° sobre depósitos cuaternarios": 14,
+   "la geometría ascendente contradice": 7
+  },
+  "velocidad_cv": {
+   "Muy lenta": 324,
+   "Sin proyección": 190
+  },
+  "clase_velocidad": {
+   "1": 514
+  },
+  "area_por_clase_ha": {
+   "Movimiento en masa posible": 1103.4,
+   "Movimiento en masa probable": 2280.1,
+   "Por verificar": 1933.9,
+   "Subsidencia o asentamiento probable": 278.5
+  },
+  "cuartiles_sni": [
+   0.826,
+   0.943,
+   0.987
+  ]
+ },
+ "amenaza": {
+  "area_cuenca_pct": {
+   "Baja": 0.4,
+   "Media": 32.8,
+   "Alta": 59.9,
+   "Muy alta": 6.9
+  },
+  "area_zonas_pct": {
+   "Baja": 0.8,
+   "Media": 46.7,
+   "Alta": 46.3,
+   "Muy alta": 6.2
+  },
+  "zonas_por_amenaza": {
+   "Alta": 279,
+   "Media": 216,
+   "Muy alta": 14,
+   "Baja": 5
+  }
+ },
+ "zda_cruces": {
+  "simma_puntos": 316,
+  "simma_con_dato": 192,
+  "simma_en_zonas": 12,
+  "fraccion_area_zonas": 0.0449,
+  "esperados": 8.6,
+  "p_binomial": 0.16,
+  "zonas_con_simma": 9,
+  "zonas_con_simma_por_clase": {
+   "Movimiento en masa posible": 4,
+   "Movimiento en masa probable": 3,
+   "Por verificar": 2
+  },
+  "detectados_acercamiento": 35,
+  "detectados_acercamiento_junto_a_construido": 22,
+  "criticas": 38
+ },
+ "simma_sin_urbano": {
+  "puntos_con_dato": 190,
+  "detectados": 19,
+  "pct": 10.0,
+  "fondo_pct": 10.4,
+  "razon": 0.96,
+  "p_binomial": 0.61,
+  "quitados_junto_construido": 34,
+  "acercamiento": 13
+ },
+ "zonas_criticas": {
+  "n": 38,
+  "area_ha": 674.4,
+  "municipios": {
+   "Albania": 8,
+   "Puente Nacional": 5,
+   "Vélez": 5,
+   "Chipatá": 5,
+   "Moniquirá": 4,
+   "Samacá": 2,
+   "Gámbita": 2,
+   "Suaita": 1,
+   "Cómbita": 1,
+   "Barbosa": 1,
+   "Guavatá": 1,
+   "Jesús Maria": 1,
+   "Guadalupe": 1,
+   "Oiba": 1
+  },
+  "alejamiento": 25,
+  "acercamiento": 13
+ },
+ "fallas": {
+  "n": 87,
+  "km": 212.6
+ },
+ "serie_regional_descendente": {
+  "pixeles": 47579,
+  "p50_final_mm": -40.2
+ },
+ "serie_regional_ascendente": {
+  "pixeles": 43187,
+  "p50_final_mm": -26.1
+ },
+ "sismos": {
+  "Superficial (< 50 km)": 17,
+  "Intermedio (≥ 50 km)": 6
+ },
+ "lluvia_cuenca": {
+  "anual_media_mm": 2068,
+  "anual_por_anio": {
+   "2023": 2040,
+   "2024": 1936,
+   "2025": 2230
+  },
+  "mes_mas_lluvioso": 10,
+  "mes_mas_seco": 1,
+  "climatologia": {
+   "1": 105,
+   "2": 160,
+   "3": 186,
+   "4": 242,
+   "5": 240,
+   "6": 195,
+   "7": 140,
+   "8": 150,
+   "9": 167,
+   "10": 312,
+   "11": 229,
+   "12": 107
+  },
+  "mapa_min_max": [
+   717,
+   4201
+  ],
+  "correlacion": {
+   "descendente": {
+    "0": 0.0,
+    "1": 0.06,
+    "2": -0.09,
+    "3": -0.11,
+    "4": -0.03
+   }
+  },
+  "umbral_95": 0.28,
+  "meses": 48
+ },
+ "zonas_representativas": {
+  "ZDA-237": {
+   "celda": 7,
+   "clase": "Movimiento en masa probable",
+   "area_ha": 5.1,
+   "v_mapa": -53.8,
+   "v_serie": -61.2,
+   "n_px": 8,
+   "v_asc": 12.3,
+   "unidad": "b2b6-Sm",
+   "pend": 9.5,
+   "lat": 5.8495,
+   "lon": -73.6513,
+   "lluvia_anual_mm": 2016
+  },
+  "ZDA-051": {
+   "celda": 5,
+   "clase": "Movimiento en masa probable",
+   "area_ha": 21.8,
+   "v_mapa": -29.9,
+   "v_serie": -35.4,
+   "n_px": 34,
+   "v_asc": -13.4,
+   "unidad": "k6E1-Stm",
+   "pend": 10.0,
+   "lat": 5.462,
+   "lon": -73.5565,
+   "lluvia_anual_mm": 942
+  },
+  "ZDA-036": {
+   "celda": 8,
+   "clase": "Movimiento en masa probable",
+   "area_ha": 28.2,
+   "v_mapa": -35.3,
+   "v_serie": -44.3,
+   "n_px": 44,
+   "v_asc": 8.7,
+   "unidad": "b2b6-Sm",
+   "pend": 8.3,
+   "lat": 6.0058,
+   "lon": -73.7105,
+   "lluvia_anual_mm": 2439
+  },
+  "ZDA-225": {
+   "celda": 11,
+   "clase": "Movimiento en masa probable",
+   "area_ha": 5.8,
+   "v_mapa": -23.4,
+   "v_serie": -37.3,
+   "n_px": 9,
+   "v_asc": -6.9,
+   "unidad": "b2b6-Sm",
+   "pend": 7.9,
+   "lat": 5.7544,
+   "lon": -73.4777,
+   "lluvia_anual_mm": 1935
+  },
+  "ZDA-357": {
+   "celda": 12,
+   "clase": "Movimiento en masa probable",
+   "area_ha": 3.8,
+   "v_mapa": -29.9,
+   "v_serie": -40.5,
+   "n_px": 6,
+   "v_asc": -60.3,
+   "unidad": "b2b6-Sm",
+   "pend": 22.2,
+   "lat": 5.8359,
+   "lon": -73.4201,
+   "lluvia_anual_mm": 2616
+  }
+ },
+ "lluvia": {
+  "correlacion": {
+   "ZDA-237": {
+    "0": -0.21,
+    "1": -0.09,
+    "2": -0.07,
+    "3": -0.22,
+    "4": -0.12
+   },
+   "ZDA-051": {
+    "0": -0.08,
+    "1": 0.1,
+    "2": 0.0,
+    "3": -0.13,
+    "4": -0.05
+   },
+   "ZDA-036": {
+    "0": 0.06,
+    "1": 0.05,
+    "2": -0.11,
+    "3": -0.08,
+    "4": -0.15
+   },
+   "ZDA-225": {
+    "0": -0.09,
+    "1": -0.01,
+    "2": -0.04,
+    "3": 0.1,
+    "4": 0.04
+   },
+   "ZDA-357": {
+    "0": -0.14,
+    "1": 0.17,
+    "2": -0.03,
+    "3": -0.07,
+    "4": -0.13
+   }
+  },
+  "umbral_95": 0.28,
+  "meses": 48
+ }
+}

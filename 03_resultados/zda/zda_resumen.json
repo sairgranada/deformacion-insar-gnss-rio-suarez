@@ -1,0 +1,16 @@
+{
+ "sigma_mapa": 10.02,
+ "umbral_zda": 20.0,
+ "umbral_estabilidad": 13.8,
+ "min_px": 5,
+ "area_min_ha": 3.2,
+ "pixeles_validos": 475028,
+ "pct_activos": 4.1,
+ "n_zda": 514,
+ "area_zda_ha": 5595.9,
+ "n_alejamiento": 269,
+ "n_acercamiento": 245,
+ "n_zda_13_8": 1612,
+ "area_zda_13_8_ha": 17901.4,
+ "zda_tambien_con_13_8": 514
+}
