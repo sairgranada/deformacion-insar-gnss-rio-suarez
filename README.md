@@ -1,7 +1,5 @@
 # Deformación superficial asociada a movimientos en masa en la cuenca media y baja del río Suárez (InSAR y GNSS)
 
-Código del trabajo de grado *Evaluación de la deformación superficial asociada a movimientos en masa mediante análisis InSAR y datos GNSS en la cuenca media y baja del río Suárez, Colombia*, presentado por Mariana Paredes Galindo y Sair Granada Garzón a la Escuela de Geología de la Universidad Industrial de Santander (2026). Director: José Pedro Mora Ortiz. Codirector: José Luis Gómez Díaz.
-
 ## Cuadernos
 
 Se corren en este orden, porque cada uno usa las salidas del anterior:
